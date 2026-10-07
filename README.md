@@ -1,16 +1,26 @@
-## Hi there 👋
+```md
+# Nonentity
 
-<!--
-**nonentity-qq/nonentity-qq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nonentity** — интернет-псевдоним, также известный как **«Антидепрессивный»**.
 
-Here are some ideas to get you started:
+Это официальный профиль, связанный с публичными цифровыми проектами, программированием и разработкой.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Кто такой Nonentity?
+
+Nonentity — псевдоним, используемый в цифровой среде.
+
+На этом профиле и на официальном сайте собрана публичная информация, связанная с именем **Nonentity** и псевдонимом **«Антидепрессивный»**.
+
+## Официальный сайт
+
+https://nonentity-qq.github.io/
+
+## Проекты
+
+Здесь будут публиковаться открытые проекты, исходный код и другие цифровые работы Nonentity.
+
+## Ссылки
+
+- **Официальный сайт:** https://nonentity-qq.github.io/
+- **GitHub:** https://github.com/nonentity-qq
+```

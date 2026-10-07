@@ -24,3 +24,4 @@ https://nonentity-qq.github.io/
 - **Официальный сайт:** https://nonentity-qq.github.io/
 - **GitHub:** https://github.com/nonentity-qq
 ```
+- **Публичная страница о Nonentity:** <script src="https://gist.github.com/nonentity-qq/7274ddbdcbc33ecb3d07d5db90c9e4ba.js"></script>
